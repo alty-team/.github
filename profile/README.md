@@ -84,10 +84,15 @@
     <td align="center" width="230">&nbsp;</td>
     <td align="center" width="230">&nbsp;</td>
     <td align="center" width="230">
+      <a href="https://github.com/kyooonnnggg">
+        <img src="https://github.com/kyooonnnggg.png" width="100" style="border-radius:50%;" alt="정교은"/>
+      </a><br/>
       <b>정교은</b><br/>
       <img src="https://img.shields.io/badge/iOS-0ea5e9?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-gyoeunjung23%40sookmyung.ac.kr-181717?style=flat-square&logo=github&logoColor=white"/>
+      <a href="https://github.com/kyooonnnggg">
+        <img src="https://img.shields.io/badge/kyooonnnggg-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td align="center" width="230">&nbsp;</td>
   </tr>
